@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dFzF9oBzojGyRAxZ99w+wVJIXaWW36NXhIz9cWAE9Fnfba/Sr8gwjl1U9ZOTkepKL/SUXKMIBuzOAVWUTxxmWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duckeN\\Desktop\\GEO\\GUI_GEO3\\GUI_GEO2\\GUI_GEO2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duckeN\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\duckeN\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

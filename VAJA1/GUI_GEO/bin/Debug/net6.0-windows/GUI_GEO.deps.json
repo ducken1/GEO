@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GUI_GEO/1.0.0": {
+        "runtime": {
+          "GUI_GEO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUI_GEO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
